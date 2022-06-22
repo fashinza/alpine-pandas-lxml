@@ -5,3 +5,6 @@
 ### Pushing Image to Docker Hub
 
     $ docker image push <image-name>:<image-tag>
+    
+    
+####Added files sonar.properties and workflow
